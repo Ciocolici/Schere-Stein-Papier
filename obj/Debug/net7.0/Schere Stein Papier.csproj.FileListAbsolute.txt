@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\GitHub\Schere-Stein-Papier\bin\Debug\net7.0\Schere Stein Papier.exe
+C:\Users\danie\Documents\GitHub\Schere-Stein-Papier\bin\Debug\net7.0\Schere Stein Papier.deps.json
+C:\Users\danie\Documents\GitHub\Schere-Stein-Papier\bin\Debug\net7.0\Schere Stein Papier.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\Schere-Stein-Papier\bin\Debug\net7.0\Schere Stein Papier.dll
+C:\Users\danie\Documents\GitHub\Schere-Stein-Papier\bin\Debug\net7.0\Schere Stein Papier.pdb
+C:\Users\danie\Documents\GitHub\Schere-Stein-Papier\obj\Debug\net7.0\Schere Stein Papier.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\Schere-Stein-Papier\obj\Debug\net7.0\Schere Stein Papier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\Schere-Stein-Papier\obj\Debug\net7.0\Schere Stein Papier.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\Schere-Stein-Papier\obj\Debug\net7.0\Schere Stein Papier.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\Schere-Stein-Papier\obj\Debug\net7.0\Schere Stein Papier.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\Schere-Stein-Papier\obj\Debug\net7.0\Schere Stein Papier.dll
+C:\Users\danie\Documents\GitHub\Schere-Stein-Papier\obj\Debug\net7.0\refint\Schere Stein Papier.dll
+C:\Users\danie\Documents\GitHub\Schere-Stein-Papier\obj\Debug\net7.0\Schere Stein Papier.pdb
+C:\Users\danie\Documents\GitHub\Schere-Stein-Papier\obj\Debug\net7.0\Schere Stein Papier.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\Schere-Stein-Papier\obj\Debug\net7.0\ref\Schere Stein Papier.dll
